@@ -9,43 +9,43 @@ Warning--empty pages in Wang:2016hq
 Warning--empty pages in Cheng:2014ab
 You've used 31 entries,
             2360 wiz_defined-function locations,
-            771 strings with 9797 characters,
-and the built_in function-call counts, 8562 in all, are:
-= -- 791
+            774 strings with 9825 characters,
+and the built_in function-call counts, 8677 in all, are:
+= -- 801
 > -- 409
 < -- 0
 + -- 147
 - -- 116
-* -- 823
-:= -- 1083
+* -- 839
+:= -- 1090
 add.period$ -- 46
 call.type$ -- 31
 change.case$ -- 44
 chr.to.int$ -- 0
 cite$ -- 35
-duplicate$ -- 507
-empty$ -- 842
+duplicate$ -- 516
+empty$ -- 855
 format.name$ -- 116
-if$ -- 2123
+if$ -- 2156
 int.to.chr$ -- 0
 int.to.str$ -- 31
-missing$ -- 93
+missing$ -- 94
 newline$ -- 111
 num.names$ -- 31
-pop$ -- 193
+pop$ -- 194
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 268
+skip$ -- 277
 stack$ -- 0
-substring$ -- 152
-swap$ -- 196
+substring$ -- 158
+swap$ -- 204
 text.length$ -- 30
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 46
+while$ -- 47
 width$ -- 33
-write$ -- 260
+write$ -- 261
 (There were 4 warnings)
